@@ -1,0 +1,50 @@
+﻿{
+  "Cars": [
+    "FERRARI",
+    "LAMBORGHINI",
+    "PORSCHE",
+    "TOYOTA",
+    "HONDA",
+    "MERCEDES",
+    "VOLKSWAGEN",
+    "BUGATTI",
+    "MASERATI",
+    "TESLA"
+  ],
+  "Movies": [
+    "INCEPTION",
+    "TITANIC",
+    "AVATAR",
+    "INTERSTELLAR",
+    "GLADIATOR",
+    "MATRIX",
+    "FROZEN",
+    "BATMAN",
+    "SUPERMAN",
+    "JOKER"
+  ],
+  "Rivers": [
+    "AMAZON",
+    "DANUBE",
+    "NILE",
+    "THAMES",
+    "VOLGA",
+    "MISSISSIPPI",
+    "YANGTZE",
+    "GANGES",
+    "EUPHRATES",
+    "CONGO"
+  ],
+  "Countries": [
+    "ROMANIA",
+    "FRANCE",
+    "GERMANY",
+    "ITALY",
+    "SPAIN",
+    "PORTUGAL",
+    "HUNGARY",
+    "BULGARIA",
+    "CROATIA",
+    "GREECE"
+  ]
+}
